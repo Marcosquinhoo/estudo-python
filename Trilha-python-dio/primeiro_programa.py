@@ -1,0 +1,8 @@
+print("Hello word")
+print (1.5 + 1 + 0.5)
+print(11 + 10 +1000)
+print(True)
+print(False)
+print("python")
+idade, name = (32, "Marcos")
+print("meu nome é: ", name, "e Minha idade é:", idade)
